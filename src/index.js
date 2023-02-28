@@ -10,7 +10,7 @@ class App {
     this.server = express();
 
     mongoose.connect(
-      "mongodb+srv://vittoria:vittoria@cluster0.0shpgf3.mongodb.net/?retryWrites=true&w=majority",
+      "mongodb+srv://outlet-lingeries:outlet-lingeries@outlet-lingeries.ci7ugqj.mongodb.net/?retryWrites=true&w=majority",
       {
         useNewUrlParser: true,
         useUnifiedTopology: true,
